@@ -1,0 +1,32 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: ;
+    align-items: ;
+    height: ;
+    margin: ;
+
+}
+.container {
+
+}
+input {
+
+}
+
+label{
+    position: absolute;
+    top: ;
+    left: ;
+    transform: ;
+    font-size: ;
+    color: ;
+    pointer-events: ;
+    transition: ;
+}
+
+input:focus{
+    border-color: ;
+
+}
+input:focus +
